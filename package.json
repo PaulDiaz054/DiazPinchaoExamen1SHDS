@@ -1,0 +1,11 @@
+{
+  "name": "diazpinchaoexamen1shds",
+  "version": "1.0.0",
+  "description": "Servicio web que regresara informacion personal de la persona",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Diaz",
+  "license": "ISC"
+}
